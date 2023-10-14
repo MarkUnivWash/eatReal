@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763337952118",
+    "project_id": "eatreal-14f34",
+    "storage_bucket": "eatreal-14f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763337952118:android:1c9c5a9ab7fdb40eeec857",
+        "android_client_info": {
+          "package_name": "com.eat.real"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzCOU0lo4hYGQSpregnSdCsT4N7oPdJKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

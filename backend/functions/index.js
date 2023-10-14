@@ -74,3 +74,7 @@ exports.addComment = functions.firestore.document('/posts/{creatorId}/userPosts/
                 commentsCount: admin.firestore.FieldValue.increment(1)
             })
     })
+
+
+
+

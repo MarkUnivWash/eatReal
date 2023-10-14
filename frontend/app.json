@@ -18,7 +18,7 @@
     ],
     "android": {
       "useNextNotificationsApi": true,
-      "package": "com.instagram.simcoder",
+      "package": "com.eat.real",
       "googleServicesFile": "./google-services.json",
       "config": {
         "googleSignIn": {
@@ -29,7 +29,7 @@
     "ios": {
       "buildNumber": "1.0.0",
       "supportsTablet": true,
-      "bundleIdentifier": "com.instagram.simcoder",
+      "bundleIdentifier": "com.eat.real",
       "config": {
         "googleSignIn": {
           "reservedClientId": "****"
@@ -40,6 +40,11 @@
     },
     "web": {
       "favicon": "./assets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f6d9e428-7546-4b7e-b022-c5e5d52b19b3"
+      }
     }
   }
 }
